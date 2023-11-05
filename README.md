@@ -1,2 +1,0 @@
-# SMU_HW_2023
-SMU Homework 2023
