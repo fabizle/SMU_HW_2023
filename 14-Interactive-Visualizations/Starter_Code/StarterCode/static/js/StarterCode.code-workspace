@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../SMU-Project3/SMU_Project3/app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "StarterCode"
+	}
+}
